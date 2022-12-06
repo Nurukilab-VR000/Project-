@@ -1,2 +1,2 @@
 -解析-
-ノンパラメトリック：Wilcoxon 順位和検定 (n > 7) Mann-Whitney U検定（n < 7）
+ノンパラメトリック（対応のない2群間 T検定）：Wilcoxon 順位和検定 (n > 7) Mann-Whitney U検定（n < 7）
